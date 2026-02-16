@@ -1,0 +1,8 @@
+{
+  "name": "Knowledge Architect Pro",
+  "description": "A high-performance execution dashboard that transforms raw transcripts and notes into visual mind maps, prioritized roadmaps, and actionable project modules.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
